@@ -1,7 +1,5 @@
 
 
-/*======== google fonts ========*/
-
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&amp;family=Nunito:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&amp;family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;display=swap');
 
 *{
@@ -99,7 +97,7 @@ h6{
     padding-bottom : 100px;
 }
 
-/*======== header part css ========*/ 
+/* header part */ 
 
 .header-top {
     background: #85CCC5;
@@ -143,7 +141,7 @@ h6{
     z-index: 1030;
 }
 
-/*======== home part css ========*/ 
+/* home part */ 
 
 .home {
     background: url('../images/h1-slide-1.jpg');
@@ -188,7 +186,7 @@ h6{
     transition: .3s;
 }
 
-/*======== categoriy box css ========*/ 
+/*categoriy box */ 
 
 section.all-category-box {
     margin-top: -79px;
@@ -237,7 +235,7 @@ section.all-category-box {
     padding: 0;
 }
 
-/*======== category item css ========*/ 
+/*category item */ 
 
 .ctgr {
     padding: 28px 0;
@@ -270,7 +268,7 @@ section.categori-item.section-padding-bottom {
     padding-bottom: 70px;
 }
 
-/*======== learning system css ========*/
+/* learning system */
 
 .learning-system {
     background: url('../images/h1-kids.jpg');
@@ -327,7 +325,7 @@ section.categori-item.section-padding-bottom {
     transition: .3s;
 }
 
-/*======== letest events css ========*/
+/*letest events*/
 
 .letest-pera {
     text-align: center;
